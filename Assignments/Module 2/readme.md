@@ -1,1 +1,5 @@
-Check Output : [click here] (https://vikrant019.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/Module%202/index.html)
+# Module-3 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://vikrant019.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/Module%202/index.html)
